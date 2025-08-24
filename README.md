@@ -1,1 +1,1 @@
-# This is a CRUD App made uisng MERN Stack
+# This is a CRUD App made using MERN Stack
